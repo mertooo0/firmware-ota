@@ -1,6 +1,6 @@
 {
     "boardName": "esp32-s3-devkitc",
-    "firmwareVersion": "2.2.0",
-    "firmwareURL": "https://raw.githubusercontent.com/mertooo0/firmware-ota/main/firmware_v2.2.0.bin"
+    "firmwareVersion": "2.1.0",
+    "firmwareURL": "https://raw.githubusercontent.com/mertooo0/firmware-ota/main/firmware_v2.1.0.bin"
   }
   
